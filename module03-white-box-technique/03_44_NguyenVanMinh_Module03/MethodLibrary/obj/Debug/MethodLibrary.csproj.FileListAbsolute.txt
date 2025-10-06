@@ -1,0 +1,6 @@
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\MethodLibrary\bin\Debug\MethodLibrary.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\MethodLibrary\bin\Debug\MethodLibrary.pdb
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\MethodLibrary\obj\Debug\MethodLibrary.csprojAssemblyReference.cache
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\MethodLibrary\obj\Debug\MethodLibrary.csproj.CoreCompileInputs.cache
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\MethodLibrary\obj\Debug\MethodLibrary.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\MethodLibrary\obj\Debug\MethodLibrary.pdb

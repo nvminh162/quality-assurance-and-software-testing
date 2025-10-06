@@ -1,0 +1,16 @@
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\RunTestModule03.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\RunTestModule03.pdb
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\MethodLibrary.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\MethodLibrary.pdb
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\obj\Debug\RunTestModule03.csprojAssemblyReference.cache
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\obj\Debug\RunTestModule03.csproj.CoreCompileInputs.cache
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\obj\Debug\RunTestModule03.csproj.CopyComplete
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\obj\Debug\RunTestModule03.dll
+D:\University\2025_HK1\DamBaoChatLuongVaKiemThuPhanMem\github\module03-white-box-technique\03_44_NguyenVanMinh_Module03\RunTestModule03\obj\Debug\RunTestModule03.pdb
