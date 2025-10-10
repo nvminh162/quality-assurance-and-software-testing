@@ -1,0 +1,7 @@
+s,n,p,exp
+"Hello ABC",2,1,"llo ABC"
+"Hello ABC",2,22,"Hello ABC"
+"Hello ABC",17,3,"Hel"
+"Hello ABC",2,-5,"Hello ABC"
+"Hello ABC",-7,4,"Hello ABC"
+"",2,1,""

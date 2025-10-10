@@ -1,0 +1,7 @@
+S1,S2,S3,exp
+"","","",""
+"Truong dh cong nghiep","","dai hoc","Truong dh cong nghiep"
+"Truong dh cong nghiep","dh","","Truong cong nghiep"
+"Truong dh cong nghiep","abc","dai hoc","Truong dh cong nghiep"
+"Truong dh cong nghiep","dh","dai hoc","Truong dai hoc cong nghiep"
+"","abc","",Exception

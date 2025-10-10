@@ -1,0 +1,7 @@
+﻿a,b,c,String,x1,x2
+0,0,0,Vô số nghiệm,NaN,NaN
+1,2,5,Vô nghiệm,NaN,NaN
+0,0,90,Vô nghiệm,NaN,NaN
+0,3,-6,Có 1 nghiệm,2,NaN
+1,5,6,Có 2 nghiệm phân biệt,-3,-2
+1,-4,4,Có nghiệm kép,2,2

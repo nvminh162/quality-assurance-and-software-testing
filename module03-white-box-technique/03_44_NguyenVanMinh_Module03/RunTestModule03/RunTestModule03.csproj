@@ -56,6 +56,19 @@
     <Compile Include="TestBai06.cs" />
     <Compile Include="TestBai07.cs" />
     <Compile Include="TestBai08.cs" />
+    <Compile Include="TestBai09.cs" />
+    <Compile Include="TestBai10.cs" />
+    <Compile Include="TestBai11.cs" />
+    <Compile Include="TestBai12.cs" />
+    <Compile Include="TestBai13.cs" />
+    <Compile Include="TestBai14.cs" />
+    <Compile Include="TestBai15.cs" />
+    <Compile Include="TestBai16.cs" />
+    <Compile Include="TestBai17.cs" />
+    <Compile Include="TestBai18.cs" />
+    <Compile Include="TestBai19.cs" />
+    <Compile Include="TestBai20.cs" />
+    <Compile Include="TestBai21.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

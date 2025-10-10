@@ -9,78 +9,78 @@ namespace RunTestModule03
         [TestMethod()]
         public void TestMethod1()
         {
-            String expected = "Triangle is Equilateral";
-            String actual = MethodLibrary.Module03.Bai05(9, 9, 9);
+            String expected = "Not a Triangle";
+            String actual = MethodLibrary.Module03.Bai05(1, 2, 3);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod2()
         {
-            String expected = "Triangle is Isosceles";
-            String actual = MethodLibrary.Module03.Bai05(8, 6, 6);
+            String expected = "Not a Triangle";
+            String actual = MethodLibrary.Module03.Bai05(3, 1, 2);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod3()
         {
             String expected = "Not a Triangle";
-            String actual = MethodLibrary.Module03.Bai05(8, 3, 3);
+            String actual = MethodLibrary.Module03.Bai05(2, 3, 1);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod4()
         {
-            String expected = "Not a Triangle";
-            String actual = MethodLibrary.Module03.Bai05(5, 12, 5);
+            String expected = "Triangle is Scalene";
+            String actual = MethodLibrary.Module03.Bai05(3, 4, 5);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod5()
         {
-            String expected = "Triangle is Isosceles";
-            String actual = MethodLibrary.Module03.Bai05(5, 8, 5);
+            String expected = "Not a Triangle";
+            String actual = MethodLibrary.Module03.Bai05(3, 3, 0);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod6()
         {
             String expected = "Triangle is Isosceles";
-            String actual = MethodLibrary.Module03.Bai05(5, 5, 8);
+            String actual = MethodLibrary.Module03.Bai05(3, 3, 2);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod7()
         {
-            String expected = "Triangle is Isosceles";
-            String actual = MethodLibrary.Module03.Bai05(5, 5, 12);
+            String expected = "Not a Triangle";
+            String actual = MethodLibrary.Module03.Bai05(1, 3, 1);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod8()
         {
-            String expected = "Triangle is Scalene";
-            String actual = MethodLibrary.Module03.Bai05(5, 6, 7);
+            String expected = "Triangle is Isosceles";
+            String actual = MethodLibrary.Module03.Bai05(3, 2, 3);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod9()
         {
             String expected = "Not a Triangle";
-            String actual = MethodLibrary.Module03.Bai05(5, 14, 6);
+            String actual = MethodLibrary.Module03.Bai05(7, 3, 3);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod10()
         {
-            String expected = "Not a Triangle";
-            String actual = MethodLibrary.Module03.Bai05(14, 5, 6);
+            String expected = "Triangle is Isosceles";
+            String actual = MethodLibrary.Module03.Bai05(3, 2, 2);
             Assert.AreEqual(expected, actual);
         }
         [TestMethod()]
         public void TestMethod11()
         {
-            String expected = "Not a Triangle";
-            String actual = MethodLibrary.Module03.Bai05(5, 6, 14);
+            String expected = "Triangle is Equilateral";
+            String actual = MethodLibrary.Module03.Bai05(3, 3, 3);
             Assert.AreEqual(expected, actual);
         }
     }
